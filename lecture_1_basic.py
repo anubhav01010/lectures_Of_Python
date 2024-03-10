@@ -1,0 +1,5 @@
+print("Jai Shree Ram")
+print(" by:-Anubhav Singh")
+print("Jai Shree Ram","by:-Anubhav Singh")
+print(34)
+print(23+34)
